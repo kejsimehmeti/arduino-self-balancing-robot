@@ -62,3 +62,11 @@ The complete Arduino source code is available in:
 ## Project Images and Circuit
 
 Photos of the implemented self-balancing robot and the final circuit diagram are included in this repository.
+
+### Robot Prototype
+
+![Self-Balancing Robot](images/self-balancing-images.png)
+
+### Circuit Diagram
+
+![Self-Balancing Robot Circuit](images/self-balancing-circuit.jpeg)
